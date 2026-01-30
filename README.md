@@ -17,9 +17,9 @@ The project integrates Python for data cleaning and EDA, SQL for analytical mode
 - Define ideal target customers for future campaigns.
 ## Dataset Description
 
-[marketing_cleaned_data](marketing_data_cleaned.csv) - Customer-level demographics, spending, channel usage, and campaign responses.
+[marketing data](marketing_data_cleaned.csv) - Customer-level demographics, spending, channel usage, and campaign responses.
 
-[marketing_data_dictionary](marketing_data_dictionary.csv) – Field definitions and metadata.
+[marketing data dictionary](marketing_data_dictionary.csv) – Field definitions and metadata.
 
 
 ## Tech Stack

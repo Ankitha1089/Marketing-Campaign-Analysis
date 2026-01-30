@@ -17,6 +17,6 @@ The project integrates Python for data cleaning and EDA, SQL for analytical mode
 - Define ideal target customers for future campaigns.
 ## Dataset Description
 
-[marketing_data.csv] – Customer-level demographics, spending, channel usage, and campaign responses.
+[marketing_data.csv](https://github.com/Ankitha1089/Marketing-Campaign-Analysis/blob/main/marketing_campaign_data.csv) – Customer-level demographics, spending, channel usage, and campaign responses.
 
 marketing_data_dictionary.csv – Field definitions and metadata.
